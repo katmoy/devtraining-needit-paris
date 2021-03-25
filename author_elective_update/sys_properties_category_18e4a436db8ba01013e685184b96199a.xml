@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>Application Property</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 22:14:37</sys_created_on>
+        <sys_id>18e4a436db8ba01013e685184b96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Property</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_18e4a436db8ba01013e685184b96199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 22:14:37</sys_updated_on>
+        <title><![CDATA[<p>Application Property for NeedIt</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=18e4a436db8ba01013e685184b96199a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>fdb572e8db021f80439ef70fbf96199a</instance_id>
+        <instance_name>dev58866</instance_name>
+        <name>sys_properties_category_18e4a436db8ba01013e685184b96199a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;Application Property&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-25 22:14:37&lt;/sys_created_on&gt;&lt;sys_id&gt;18e4a436db8ba01013e685184b96199a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Application Property&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_18e4a436db8ba01013e685184b96199a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-25 22:14:37&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;Application Property for NeedIt&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=18e4a436db8ba01013e685184b96199a"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1089505457</payload_hash>
+        <record_name>Application Property</record_name>
+        <reverted_from/>
+        <source>e8f61762dbc7a01013e685184b9619cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 22:14:37</sys_created_on>
+        <sys_id>8c252836db8ba01013e685184b9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786b74289e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 22:14:37</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>c4252836188ba010afb163b99b43edf5</update_guid>
+        <update_guid_history>c4252836188ba010afb163b99b43edf5:1089505457</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 22:18:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>2b50c79d9f434908acdcfba371476110</sys_id>
+        <sys_metadata>18e4a436db8ba01013e685184b96199a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Property</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_18e4a436db8ba01013e685184b96199a</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_18e4a436db8ba01013e685184b96199a">8c252836db8ba01013e685184b9619f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 22:18:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
